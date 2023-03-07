@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)]
+[![MasterHead](![download](https://user-images.githubusercontent.com/119026878/223441882-7ec0d145-4653-4e88-bbd9-c0d83382838c.png))]
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center">A passionate student developer from Bulgaria.</h3>
 
