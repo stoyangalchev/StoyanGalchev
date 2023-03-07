@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center">A passionate student developer from Bulgaria.</h3>
-![81178b47a8598f0c81c4799f2cdd4057](https://user-images.githubusercontent.com/119026878/223435239-9b5d1687-7c22-4aac-81d9-048fe319ef5e.gif)
+![1234](https://user-images.githubusercontent.com/119026878/223435595-afdc9514-7a3e-47fe-88d9-9a6d777f91dd.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
