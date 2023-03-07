@@ -22,6 +22,6 @@
 <a href="https://github.com/stoyangalchev">
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&locale=en" alt="stoyangalchev" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stoyangalchev&" alt="stoyangalchev" /></p>
