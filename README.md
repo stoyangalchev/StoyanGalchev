@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
+![Capture](https://user-images.githubusercontent.com/119026878/223441249-53758f25-85c5-4eb1-bf3f-dc5aa6e6a4ea.PNG)
 
 
 - 🌱 I’m currently learning **JS-Path Of SoftUni(Software University)**
