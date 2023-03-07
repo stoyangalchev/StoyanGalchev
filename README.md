@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoyangalchev" alt="stoyangalchev" /></a> </p>
+
 
 - 🌱 I’m currently learning **JS-Path Of SoftUni(Software University)**
 
