@@ -21,7 +21,9 @@
 
 ## ⚡GitHub Stats
 <a href="https://github.com/stoyangalchev">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="  https://github-readme-stats-ruby-one.vercel.app/api?username=stoyangalchev&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
 
 
+  https://github-readme-stats-ruby-one.vercel.app
+  https://github-readme-stats.vercel.app/api
 
