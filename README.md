@@ -3,7 +3,7 @@
 <h3 align="center">A passionate student developer from Bulgaria.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
+<p align="left"> <img text_color=9D00FF ;src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
 
 
