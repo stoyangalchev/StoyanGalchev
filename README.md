@@ -22,7 +22,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"</a>  </p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   
 ## ⚡GitHub Stats
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyangalchev&show_icons=true&locale=en&layout=compact&theme=dark" alt="stoyangalchev" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyangalchev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="stoyangalchev" /></p>
 
   <a href="https://github.com/stoyangalchev">
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&bg_color=00000000&hide_border=true&text_color=9D00FF&count_private=true&include_all_commits=true" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoyangalchev)](https://github.com/stoyangalchev/github-readme-stats)/>
