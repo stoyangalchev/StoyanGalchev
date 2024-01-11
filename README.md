@@ -23,7 +23,8 @@
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"</a> 
 </p> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- 
+ <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/912/434/png-transparent-sql-logo-microsoft-sql-server-computer-programming-table-query-language-sql-file-icon-miscellaneous-magenta-programming-language-thumbnail.png" alt="sql" width="40" height="40"/> </a>
+ </p> 
   
 ## ⚡GitHub Stats
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyangalchev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="stoyangalchev" /></p>
