@@ -16,6 +16,16 @@
 <a href="https://instagram.com/stoyan_galchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyangalchev_" height="30" width="40" /></a>
 </p>
 
+### 🔑 My Projects
+
+<details><summary><b>👾  JavaScript</b></summary>
+  
+  <ul>
+   <li><a href="https://github.com/StoyanGalchev/Slider">Slider</a></li>
+  </ul>
+  
+</details>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
