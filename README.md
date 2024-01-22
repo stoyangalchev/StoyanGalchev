@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS-Path Of SoftUni(Software University)**
 
-- 📫 How to reach me **galchev98@gmail.com**
+- 📫 How to reach me **stoyangalchev98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
