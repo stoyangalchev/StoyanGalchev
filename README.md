@@ -19,11 +19,15 @@
 ### 🔑 My Projects
 
 <details><summary><b>👾  JavaScript</b></summary>
-  
-  <ul>
+   <ul>
    <li><a href="https://github.com/StoyanGalchev/Slider">Slider</a></li>
   </ul>
-  
+</details>
+
+<details><summary><b>👨‍🚀  HTML&CSS</b></summary>
+   <ul>
+    <li><a href="https://stoyangalchev.github.io/Simple-Page/">The landing page</a></li>
+  </ul>
 </details>
 
 <h3 align="left">Languages and Tools:</h3>
