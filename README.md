@@ -11,7 +11,7 @@
 
 - 📫 How to reach me
 - **stoyangalchev98@gmail.com**
-- **<a href="https://www.facebook.com/profile.php?id=100072948002810">Facebook</a>
+- **<a href="https://www.facebook.com/profile.php?id=100072948002810">Facebook</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
