@@ -24,6 +24,7 @@
    <ul>
    <li><a href="https://github.com/StoyanGalchev/Slider">Slider</a></li>
    <li><a href="https://stoyangalchev.github.io/Simple-Timer/">Timer</a></li>
+       <li><a href="https://stoyangalchev.github.io/Aim-Game/">Aim Game</a></li>
   </ul>
 </details>
 
