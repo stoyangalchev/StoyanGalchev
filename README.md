@@ -23,6 +23,7 @@
 <details><summary><b>👾  JavaScript</b></summary>
    <ul>
    <li><a href="https://github.com/StoyanGalchev/Slider">Slider</a></li>
+   <li><a href="https://stoyangalchev.github.io/Simple-Timer/">Timer</a></li>
   </ul>
 </details>
 
