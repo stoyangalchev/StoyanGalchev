@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
-### 🔑 My Certificate
-<details><summary><b>👾  CERTIFICATE</b></summary>
+<details><summary><b> ### 🏆 My Certificate </b></summary>
    <ul>
         <li><a ">The landing page</a></li>
   </ul>
 </details>
+
 - 🌱** Creative & Problem Solving Mind ** 🧠  
 
 - 📫 How to reach me
