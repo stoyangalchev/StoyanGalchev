@@ -11,7 +11,7 @@
         <li><a ">The landing page</a></li>
   </ul>
 </details>
-- 🌱 Creative & Problem Solving Mind 🧠**
+- 🌱** Creative & Problem Solving Mind ** 🧠  
 
 - 📫 How to reach me
 - **stoyangalchev98@gmail.com**
