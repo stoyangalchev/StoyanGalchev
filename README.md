@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center">A passionate student developer from Bulgaria.</h3>
 
-
+[GitHub Profile Views Counter]: https://github.com/stoyangalchev/github-profile-views-counter
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
 
