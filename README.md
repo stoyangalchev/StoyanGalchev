@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
-<details><summary><b> ### 🏆 My Certificate </b></summary>
-   <ul>
-        <li><a >[![Cerificate-Programing-Basic1](https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a)]</a></li>
-  </ul>
-</details>
+
+![Cerificate-Programing-Basic1](https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a)
+
 
 - 🌱** Creative & Problem Solving Mind ** 🧠  
 
