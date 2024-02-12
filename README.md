@@ -8,6 +8,11 @@
 ### 🔑 My Certificates
  <ul>
    <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
 </ul>
 - 🌱** Creative & Problem Solving Mind ** 🧠  
 
