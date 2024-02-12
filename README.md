@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
-
-<a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a>
-
-
+### 🔑 My Certificates
+ <ul>
+   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">aa</a></li>
+</ul>
 - 🌱** Creative & Problem Solving Mind ** 🧠  
 
 - 📫 How to reach me
