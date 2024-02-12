@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
-
-
-- 🌱 I’m currently learning **JS-Path Of SoftUni(Software University)**
+### 🔑 My Certificate
+<details><summary><b>👾  CERTIFICATE</b></summary>
+   <ul>
+        <li><a ">The landing page</a></li>
+  </ul>
+</details>
+- 🌱 Creative & Problem Solving Mind 🧠**
 
 - 📫 How to reach me
 - **stoyangalchev98@gmail.com**
