@@ -7,7 +7,7 @@
 
 <details><summary><b> ### 🏆 My Certificate </b></summary>
    <ul>
-        <li><a >![Cerificate-Programing-Basic1](https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a)</a></li>
+        <li><a >[![Cerificate-Programing-Basic1](https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a)]</a></li>
   </ul>
 </details>
 
