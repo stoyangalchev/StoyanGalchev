@@ -6,16 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
 
-- 🌱** Creative & Problem Solving Mind ** 🧠  
-
-- 📫 How to reach me
+- 🌱** Creative & Problem Solving Mind. ** 🧠  
+- 👨🏻‍💻 Tech guy.
+- 📫 How to reach me ?
 - **stoyangalchev98@gmail.com**
-- **<a href="https://www.facebook.com/profile.php?id=100072948002810">Facebook</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/stoyan_galchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyangalchev_" height="30" width="40" /></a>
 </p>
+<a href="https://www.linkedin.com/in/stoyan-galchev-21612a274/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoyan-galchev-21612a274/" height="30" width="40" style="max-width: 100%;"></a>
 
 ### 🔑 My Projects
 
