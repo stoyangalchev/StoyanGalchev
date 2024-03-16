@@ -36,8 +36,8 @@
   </ul>
 </details>
 
-<details><summary><h3>### 🏆📃📝 My Certificates</h3></summary>
- <ul>
+<details><summary>### 🏆📃📝 My Certificates</summary>
+   <ul>
    <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9d89477a-7bbe-4439-a6d8-2e3452ab4611">Programing Fundamentals</></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/45be93ab-8198-46f6-9b64-c46523ad56d9">JS Advanced</a></li>
