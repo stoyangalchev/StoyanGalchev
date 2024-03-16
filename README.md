@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
 
 
-- 🌱** Creative & Problem Solving Mind. ** 🧠  
-- 👨🏻‍💻 Tech guy.
-- 📫 How to reach me ?
+- 🌱** <b>Creative & Problem Solving Mind.</b> ** 🧠  
+- 👨🏻‍💻 <b>Tech guy.</b>
+- 📫 <b>How to reach me ?</b>
 - **stoyangalchev98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
