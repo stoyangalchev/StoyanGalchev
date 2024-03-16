@@ -35,7 +35,7 @@
     <li><a href="https://stoyangalchev.github.io/Simple-Page/">The landing page</a></li>
   </ul>
 </details>
-
+<hr>
 <details><summary>### 🏆📃📝 <b>My Certificates</b> </summary>
    <ul>
    <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
