@@ -21,6 +21,12 @@
 
 ### 🔑 My Projects
 
+<details><summary><b>🅰️  Angular</b></summary>
+   <ul>
+   <li><a href="https://stoyangalchev.github.io/Webflix/home">Weblix</a></li>
+  </ul>
+</details>
+
 <details><summary><b>👾  JavaScript</b></summary>
    <ul>
    <li><a href="https://stoyangalchev.github.io/Slider/">Slider</a></li>
