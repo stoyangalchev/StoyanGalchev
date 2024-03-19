@@ -23,7 +23,7 @@
 
 <details><summary><b>🅰️  Angular</b></summary>
    <ul>
-   <li><a href="https://stoyangalchev.github.io/Webflix/home">Weblix</a></li>
+   <li><a href="https://stoyangalchev.github.io/Webflix/home">Webflix</a></li>
   </ul>
 </details>
 
