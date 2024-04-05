@@ -62,7 +62,7 @@
 ## ⚡GitHub Stats
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyangalchev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="stoyangalchev" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&theme=green" alt="stoyangalchev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&theme=tokyonight" alt="stoyangalchev" />
 
 
 
