@@ -50,6 +50,7 @@
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/45be93ab-8198-46f6-9b64-c46523ad56d9">JS Advanced</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/c5986f2e-30f6-49ac-8bf1-1e6c94158e61">JS Application</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/90caca0d-9eb5-419d-8e98-69de15238a2c">JS Back-End</a></li>
+  <li><a href="https://github.com/StoyanGalchev/SoftUni-Software-Engineering/assets/119026878/4e071ee2-ac83-4bf0-a300-00170b5af87f">Angular</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/913725d1-5f16-4d35-a912-2ea05ab89d0c">IT Career Buster</a></li>
 </ul>
  </details>
