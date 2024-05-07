@@ -45,13 +45,15 @@
 <hr>
 <details><summary>### 🏆📃📝 <b>My Certificates</b> </summary>
    <ul>
-   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9d89477a-7bbe-4439-a6d8-2e3452ab4611">Programing Fundamentals</></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/45be93ab-8198-46f6-9b64-c46523ad56d9">JS Advanced</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/c5986f2e-30f6-49ac-8bf1-1e6c94158e61">JS Application</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/90caca0d-9eb5-419d-8e98-69de15238a2c">JS Back-End</a></li>
   <li><a href="https://github.com/StoyanGalchev/SoftUni-Software-Engineering/assets/119026878/4e071ee2-ac83-4bf0-a300-00170b5af87f">Angular</a></li>
+  <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/42af7ec5-e8b6-44de-afa4-6b67fa78d23b">TypeScript</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/913725d1-5f16-4d35-a912-2ea05ab89d0c">IT Career Buster</a></li>
+
 </ul>
  </details>
    <hr>
