@@ -20,7 +20,7 @@
 <hr>
 
 ### 🔑 My Projects
-<details><summary><b><p style="font-size:30">⚛</p>  React</b></summary>
+<details><summary><b>⚛ React</b></summary>
    <ul>
    <li><a href="#">Fast&Furious</a></li>
   </ul>
