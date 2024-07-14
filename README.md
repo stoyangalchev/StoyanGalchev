@@ -69,7 +69,7 @@
  </details>
    <hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"  display: flex; gap: 10px; flex-wrap: wrap; >
+<p align="left"  display: flex; gap: 20px; flex-wrap: wrap; >
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
