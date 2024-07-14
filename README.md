@@ -37,7 +37,10 @@
 </details>
 
 <details><summary><b>👾  JavaScript</b></summary>
-   <ul>
+    
+   <ul  display: flex;
+  flex-direction: row;
+  gap: 10px; >
    <li><a href="https://stoyangalchev.github.io/Slider/">Slider</a></li>
    <li><a href="https://stoyangalchev.github.io/Simple-Timer/">Timer</a></li>
    <li><a href="https://stoyangalchev.github.io/Aim-Game/">Aim Game</a></li>
