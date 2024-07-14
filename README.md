@@ -38,9 +38,7 @@
 
 <details><summary><b>👾  JavaScript</b></summary>
     
-   <ul  display: flex;
-  flex-direction: row;
-  gap: 10px; >
+   <ul >
    <li><a href="https://stoyangalchev.github.io/Slider/">Slider</a></li>
    <li><a href="https://stoyangalchev.github.io/Simple-Timer/">Timer</a></li>
    <li><a href="https://stoyangalchev.github.io/Aim-Game/">Aim Game</a></li>
@@ -56,7 +54,7 @@
 </details>
 <hr>
 <details><summary>### 🏆📃📝 <b>My Certificates</b> </summary>
-   <ul>
+   <ul >
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9d89477a-7bbe-4439-a6d8-2e3452ab4611">Programing Fundamentals</></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/45be93ab-8198-46f6-9b64-c46523ad56d9">JS Advanced</a></li>
@@ -72,9 +70,10 @@
    <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <div display: flex; flex-direction: row; gap: 10px; >
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4u94u1wfOumlFo5J_RA2gwV15UlurUretU3FzX50SuA&s" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png" width="36" height="36" alt="Postman" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="45" height="45" alt="MySQL" /></a>
 </p>
-
+    </div>
 ## ⚡GitHub Stats
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyangalchev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="stoyangalchev" /></p>
 
