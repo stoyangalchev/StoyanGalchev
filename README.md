@@ -84,6 +84,9 @@
         <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/132625789?s=280&v=4" width="38" height="38"  alt="Copilot" /></a>
         <a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="36" height="36" alt="GHDesctop" 
         /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="36" height="36"  alt="Copilot" /></a>
+
+        
 
      
 </p>
