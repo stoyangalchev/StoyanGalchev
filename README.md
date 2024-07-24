@@ -82,7 +82,7 @@
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png" width="36" height="36" alt="Postman" /></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="45" height="45" alt="MySQL" /></a>
         <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/132625789?s=280&v=4" width="38" height="38"  alt="Copilot" /></a>
-        <a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer"><img src="https://e1.pngegg.com/pngimages/452/590/png-clipart-clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-thumbnail.png" width="36" height="36" alt="GHDesctop" 
+        <a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="36" height="36" alt="GHDesctop" 
         /></a>
 
      
