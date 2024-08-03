@@ -85,6 +85,7 @@
         <a href="https://github.com/apps/desktop" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="36" height="36" alt="GHDesctop" 
         /></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="36" height="36"  alt="Copilot" /></a>
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 
         
 
