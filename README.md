@@ -32,7 +32,7 @@
 
 <details><summary><b>🅰️  Angular</b></summary>
    <ul>
-   <li><a href="https://stoyangalchev.github.io/Webflix/home">Webflix</a></li>
+   <li><a href="https://webflix-9znqh0fxb-stoyans-projects-1eda22f1.vercel.app/home">Webflix</a></li>
   </ul>
 </details>
 
