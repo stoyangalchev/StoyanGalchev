@@ -89,7 +89,7 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="36" height="36"  alt="Copilot" /></a>
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
         <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" width="36" height="36" alt="MongooseJS" /></a>
-
+        <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker"/></a>
 
 
      
