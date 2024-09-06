@@ -40,6 +40,7 @@
 <details><summary><b>👾  JavaScript</b></summary>
     
    <ul >
+   <li><a href="https://stoyangalchev.github.io/Car-Parts/">Car Parts</a></li>
    <li><a href="https://stoyangalchev.github.io/Slider/">Slider</a></li>
    <li><a href="https://stoyangalchev.github.io/Simple-Timer/">Timer</a></li>
    <li><a href="https://stoyangalchev.github.io/Aim-Game/">Aim Game</a></li>
