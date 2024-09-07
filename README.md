@@ -93,6 +93,8 @@
         <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" width="36" height="36" alt="MongooseJS" /></a>
         <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/96/000000/docker.png" width="38" height="38" alt="Docker"/></a>
         <a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT"/></a>
+        <a href="https://handlebarsjs.com/"><img src="https://www.svgrepo.com/show/373653/handlebars.svg" width="36" height="36" alt="Handlebars"/></a>
+        
 
 
      
