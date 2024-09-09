@@ -51,7 +51,6 @@
 
 <details><summary><b>👨‍🚀  HTML&CSS </b></summary>
    <ul>
-    <li><a href="https://stoyangalchev.github.io/Simple-Page/">The landing page</a></li>
     <li><a href="https://stoyangalchev.github.io/Travellia/">Travellia</a></li>
   </ul>
 </details>
