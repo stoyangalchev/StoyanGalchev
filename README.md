@@ -8,7 +8,7 @@
 <h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stoyangalchev&label=Profile%20views&color=0e75b6&style=flat" alt="stoyangalchev" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="500" alt="css-in-readme"> </p>
 
 
 - 🌱** <b>Creative & Problem Solving Mind.</b> ** 🧠  
