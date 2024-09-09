@@ -8,9 +8,6 @@
 <h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
 
 
-<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300" height="200" alt="css-in-readme"> </p>
-
-
 - 🌱** <b>Creative & Problem Solving Mind.</b> ** 🧠  
 - 👨🏻‍💻 <b>Tech guy.</b>
 - 📫 <b>How to reach me ?</b>
