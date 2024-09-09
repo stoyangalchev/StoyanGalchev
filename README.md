@@ -40,6 +40,7 @@
 <details><summary><b>👾  JavaScript</b></summary>
     
    <ul >
+   <li><a href="https://wildlife-tan.vercel.app/">Wildlife</a></li>
    <li><a href="https://stoyangalchev.github.io/Car-Parts/">Car Parts</a></li>
    <li><a href="https://stoyangalchev.github.io/Fitness-Class/">Fitness Class</a></li>
    <li><a href="https://stoyangalchev.github.io/Slider/">Slider</a></li>
