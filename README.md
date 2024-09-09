@@ -1,14 +1,14 @@
 
 <div align="center">
     <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU4NzMxNTgsIm5iZiI6MTcyNTg3Mjg1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA5VDA5MDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljYjgwNWZjOTZlYjJmYjRkOGE1ZWM1ODZmNzNkOWVmMzYyNjQ3Yzk2ZGY5ZmFmNzcwMzhlYzgwOGZkODM4MmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Nyws1rIQcxDXNdiykJL2NeeDkDcUHshO1m9ahiTvyJY " width="1000" height="500">
-<!--     <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="500" alt="css-in-readme"> -->
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
 
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200" height="100" alt="css-in-readme"> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300" height="200" alt="css-in-readme"> </p>
 
 
 - 🌱** <b>Creative & Problem Solving Mind.</b> ** 🧠  
