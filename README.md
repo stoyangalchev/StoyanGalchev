@@ -24,7 +24,7 @@
 ### 🔑 My Projects
 <details><summary><b>⚛ React</b></summary>
    <ul>
-   <li><a href="https://github.com/StoyanGalchev/Fast-and-Furious">Fast-and-Furious</a></li>
+   <li><a href="https://fast-and-furious-sigma.vercel.app"</a></li>
    <li><a href="https://stoyan-galchev.onrender.com/">My-portfolio-app</a></li>
   </ul>
 </details>
