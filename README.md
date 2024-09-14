@@ -55,7 +55,9 @@
   </ul>
 </details>
 <hr>
-<details><summary>### 🏆📃📝 <b>My Certificates</b> </summary>
+<details><summary>### 🏆📃📝 <a href="https://drive.google.com/file/d/19BZu9UplROsZvafI5c2mTjobZRj3R1Ur/view?usp=drive_link">My Diploma</a> </summary></details>
+
+<details><summary>### 📝 <b>My Certificates</b> </summary>
    <ul >
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9d89477a-7bbe-4439-a6d8-2e3452ab4611">Programing Fundamentals</></li>
