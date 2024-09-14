@@ -55,7 +55,7 @@
   </ul>
 </details>
 <hr>
-<details><summary>### 🏆📃📝 <b>My Diploma</b> </summary>
+<details><summary>### 🏆📃📝 <b>My Diploma (6.00)</b> </summary>
 <ul>
   <li> <a href="https://drive.google.com/file/d/19BZu9UplROsZvafI5c2mTjobZRj3R1Ur/view?usp=drive_link">Full Image</a></li>
   <li> <a href="https://drive.google.com/file/d/1sJerK--8gqH5YUpKw828Tf0OjcsU_3Wh/view?usp=sharing">Short Image</a></li>
