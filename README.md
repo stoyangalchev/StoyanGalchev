@@ -55,7 +55,12 @@
   </ul>
 </details>
 <hr>
-<details><summary>### 🏆📃📝 <a href="https://drive.google.com/file/d/19BZu9UplROsZvafI5c2mTjobZRj3R1Ur/view?usp=drive_link">My Diploma</a> </summary></details>
+<details><summary>### 🏆📃📝 <b>My Diploma</b> </summary>
+<ul>
+  <li> <a href="https://drive.google.com/file/d/19BZu9UplROsZvafI5c2mTjobZRj3R1Ur/view?usp=drive_link">Full Image</a></li>
+  <li> <a href="https://drive.google.com/file/d/1sJerK--8gqH5YUpKw828Tf0OjcsU_3Wh/view?usp=sharing">Short Image</a></li>
+</ul>
+</details>
 
 <details><summary>### 📝 <b>My Certificates</b> </summary>
    <ul >
