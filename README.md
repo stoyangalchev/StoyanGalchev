@@ -22,7 +22,7 @@
 <hr>
             <p>
 ### 🔑 My Projects
-<details><summary><b>⚛ React</b></summary>
+<details><summary><b>⚛ ⚡️ React</b></summary>
    <ul>
    <li><a href="https://fast-and-furious-sigma.vercel.app">Fast and Furious</a></li>
    <li><a href="https://stoyan-galchev.onrender.com/">My-portfolio-app</a></li>
