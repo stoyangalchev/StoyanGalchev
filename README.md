@@ -26,6 +26,7 @@
    <ul>
    <li><a href="https://fast-and-furious-sigma.vercel.app">Fast and Furious</a></li>
    <li><a href="https://stoyan-galchev.onrender.com/">My-portfolio-app</a></li>
+   <li><a href="https://weather-app-48lb.onrender.com/">Weather App</a></li>
   </ul>
 </details>
 
