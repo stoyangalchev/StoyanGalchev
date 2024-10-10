@@ -29,7 +29,13 @@
    <li><a href="https://weather-app-48lb.onrender.com/">Weather App</a></li>
   </ul>
 </details>
-
+        
+<details><summary><b>🗄️ Redux ⚛ ⚡️ React </b></summary>
+   <ul>
+   <li><a href="https://calculator-zeta-ten-24.vercel.app/">Calculator</a></li>
+  </ul>
+</details>
+              
 <details><summary><b>🅰️  Angular</b></summary>
    <ul>
    <li><a href="https://webflix-9znqh0fxb-stoyans-projects-1eda22f1.vercel.app/home">Webflix</a></li>
