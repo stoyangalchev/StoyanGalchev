@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N6ZXd6M3JnbjVzMTR6OHlxZHllN3p0Y3BxdjV6MXo5bzF4dW9kbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif" width="1000" height="500">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N6ZXd6M3JnbjVzMTR6OHlxZHllN3p0Y3BxdjV6MXo5bzF4dW9kbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif" width="900" height="400">
 
 
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
