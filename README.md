@@ -26,7 +26,6 @@
    <ul>
    <li><a href="https://fast-and-furious-sigma.vercel.app">Fast and Furious</a></li>
    <li><a href="https://stoyan-galchev.onrender.com/">My-portfolio-app</a></li>
-  
    <li><a href="https://toparborist.com/">Top Arborist</a></li>
      
   </ul>
@@ -35,6 +34,7 @@
 <details><summary><b>🗄️ Redux ⚛ ⚡️ React </b></summary>
    <ul>
    <li><a href="https://calculator-zeta-ten-24.vercel.app/">Calculator</a></li>
+   <li><a href="https://pizzashop-one.vercel.app/">Pizza Shop</a></li>
   </ul>
 </details>
               
