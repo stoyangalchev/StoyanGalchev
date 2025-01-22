@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=3840" width=1000">
-<img data-cy="StoryImage" alt="A GIF of outer space." fetchpriority="high" width="1020" height="1080" decoding="async" data-nimg="1" class="m-0" style="color:transparent" sizes="100vw" srcset="https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=640 640w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=750 750w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=828 828w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=1080 1080w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=1200 1200w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=1920 1920w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=2048 2048w, https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=3840 3840w" src="https://images.axios.com/w2IC8X-XkfWLqMf1JE2jRaW5fhQ=/0x0:1920x1080/1920x1080/filters:no_upscale()/2020/04/28/1588095225695.gif?w=3840">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N6ZXd6M3JnbjVzMTR6OHlxZHllN3p0Y3BxdjV6MXo5bzF4dW9kbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif" width="1000" height="500">
+
 
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
