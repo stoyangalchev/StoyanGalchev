@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/04341c23-9ec0-47bb-b769-3bfa077e3feb" width="100" height="500">
+  <img src="https://github.com/user-attachments/assets/04341c23-9ec0-47bb-b769-3bfa077e3feb" width="1000" height="500">
 
 
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
