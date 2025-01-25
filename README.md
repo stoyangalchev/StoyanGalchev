@@ -4,23 +4,44 @@
   <img src="https://github.com/user-attachments/assets/04341c23-9ec0-47bb-b769-3bfa077e3feb" width="800" height="400">
 </div>
 <div align="left">
-<h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
-<h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
+<h1 align="center">🚀 Stoyan Galchev – Chasing the Future 🚀</h1>
 
-
-- 🌱** <b>Creative & Problem Solving Mind.</b> ** 🧠  
-- 👨🏻‍💻 <b>Tech guy.</b>
-- 📫 <b>How to reach me ?</b>
-- **stoyangalchev98@gmail.com**
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/stoyan_galchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyangalchev_" height="30" width="40" /></a>
-   <a href="https://www.linkedin.com/in/stoyan-galchev-21612a274/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoyan-galchev-21612a274/" height="30" width="40" style="max-width: 100%;"></a>
+<p align="center">
+<strong>Hi 👋, I'm Stoyan Galchev</strong><br>
+A <b>Full-Stack Developer</b> from Bulgaria, building the future one line of code at a time.
 </p>
 
-<hr>
-            <p>
+---
+
+## 🛠 The Mission
+Like Musk chasing Mars, I'm on a relentless journey to push boundaries in **technology & innovation**.
+I believe in **bold ideas, constant learning, and solving the hardest problems**.
+
+### 🌱 **Creative & Problem-Solving Mind** 🧠
+Technology is the launchpad. Creativity is the fuel.
+
+👨🏻‍💻 **Tech Explorer, Builder, and Innovator**
+I turn ideas into reality with **JavaScript, React, Node.js, and more**.
+
+---
+
+## 📡 **Connect With Me**
+📧 **Email:** [stoyangalchev98@gmail.com](mailto:stoyangalchev98@gmail.com)
+🔗 **LinkedIn:** [stoyan-galchev-21612a274](https://www.linkedin.com/in/stoyan-galchev-21612a274/)
+📸 **Instagram:** [stoyangalchev_](https://www.instagram.com/stoyangalchev_)
+
+---
+
+## 🔥 My Tech Arsenal
+🚀 **React Redux NextJS** – Front-end rocket fuel
+🅰️ **Angular** – Precision and scalability
+⚙ **Node.js & Express** – Powering back-end engines
+📡 **MongoDB & MySQL** – Data that scales to infinity
+🛠 **TypeScript, Tailwind, REST APIs** – Optimizing for the future
+
+---
+
+
 ### 🔑 My Projects
 <details><summary><b>⚛ ⚡️ React</b></summary>
    <ul>
@@ -71,7 +92,7 @@
 </ul>
 </details>
 
-<details><summary>### 📝 <b>My Certificates</b> </summary>
+<details><summary>### 📝 <b>My Certificates</b> -Always upgrading, always evolving </summary>
    <ul >
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9ad1ca01-756c-452e-8f81-240d73014c2a">Programing Basic</a></li>
   <li><a href="https://github.com/StoyanGalchev/StoyanGalchev/assets/119026878/9d89477a-7bbe-4439-a6d8-2e3452ab4611">Programing Fundamentals</></li>
@@ -87,6 +108,9 @@
 </ul>
  </details>
    <hr>
+   🚀 **The goal?** To build, innovate, and **push the limits of what's possible** in tech.
+
+> **"If something is important enough, you should try—even if the probable outcome is failure."** – Elon Musk
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"  >
 
