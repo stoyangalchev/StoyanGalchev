@@ -1,9 +1,9 @@
 
-<div align="left">
+<div align="center">
 
   <img src="https://github.com/user-attachments/assets/04341c23-9ec0-47bb-b769-3bfa077e3feb" width="800" height="400">
-
-
+</div>
+<div align="left">
 <h1 align="center">Hi 👋, I'm Stoyan Galchev</h1>
 <h3 align="center"> Full-Stack Developer from Bulgaria.</h3>
 
@@ -125,4 +125,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stoyangalchev&show_icons=true&theme=midnight-purple" alt="stoyangalchev" />
 
 
+</div>
 
