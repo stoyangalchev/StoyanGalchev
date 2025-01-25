@@ -108,9 +108,9 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
 </ul>
  </details>
    <hr>
-   🚀 **The goal?** To build, innovate, and **push the limits of what's possible** in tech.
+  <h2> 🚀 **The goal?** To build, innovate, and **push the limits of what's possible** in tech.</h2>
 
-> **"If something is important enough, you should try—even if the probable outcome is failure."** – Elon Musk
+> <h3>**"If something is important enough, you should try—even if the probable outcome is failure."** – Elon Musk</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"  >
 
