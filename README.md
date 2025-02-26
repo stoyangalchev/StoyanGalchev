@@ -137,7 +137,8 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
         <a href="https://hub.docker.com/"><img src="https://img.icons8.com/color/96/000000/docker.png" width="38" height="38" alt="Docker"/></a>
         <a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT"/></a>
         <a href="https://handlebarsjs.com/"><img src="https://www.svgrepo.com/show/373653/handlebars.svg" width="36" height="36" alt="Handlebars"/></a>
-        
+        <a href="https://nextjs.org/"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="36" height="36" alt="Next.js"/></a>
+
 
 
      
