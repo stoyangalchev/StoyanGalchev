@@ -28,7 +28,7 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
 ## 📡 **Connect With Me**
 📧 **Email:** [stoyangalchev98@gmail.com](mailto:stoyangalchev98@gmail.com)
 🔗 **LinkedIn:** [stoyan-galchev-21612a274](https://www.linkedin.com/in/stoyan-galchev-21612a274/)
-📸 **Instagram:** [stoyangalchev_](https://www.instagram.com/stoyangalchev_)
+📸 **Instagram:** [stoyan_galchev](https://www.instagram.com/stoyangalchev_)
 
 ---
 
