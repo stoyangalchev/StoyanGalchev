@@ -86,7 +86,7 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
 </details>
 <hr>
 
-<details>><summary><ahref="https://github.com/user-attachments/files/19023262/Resume.pdf">### 📃 <b>Resume</b></a></summary></details>
+<details>><summary><a href="https://github.com/user-attachments/files/19023262/Resume.pdf">### 📃 <b>Resume</b></a></summary></details>
   
 <details><summary>### 🏆📝 <b>My Diploma (6.00)</b> - Precision matters </summary>
 <ul>
