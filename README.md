@@ -49,6 +49,8 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
    <li><a href="https://stoyan-galchev.onrender.com/">My-portfolio-app</a></li>
    <li><a href="https://toparborist.com/">Top Arborist</a></li>
    <li><a href="https://stoyangalchev.github.io/Task-Management/">Task Manager</a></li>
+   <li><a href="https://stoyangalchev.github.io/React-Quiz/">React Quiz</a></li>
+   
    
      
   </ul>
