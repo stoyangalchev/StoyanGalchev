@@ -33,11 +33,12 @@ I turn ideas into reality with **JavaScript, React, Node.js, and more**.
 ---
 
 ## 🔥 My Tech Arsenal
-🚀 **React Redux NextJS** – Front-end rocket fuel
-🅰️ **Angular** – Precision and scalability
-⚙ **Node.js & Express** – Powering back-end engines
-📡 **MongoDB & MySQL** – Data that scales to infinity
-🛠 **TypeScript, Tailwind, REST APIs** – Optimizing for the future
+🚀 **React Redux NextJS** – Front-end rocket fuel**
+🅰️ **Angular** – Precision and scalability**
+⚙ **Node.js & Express** – Powering back-end engines**
+📡 **MongoDB & MySQL** – Data that scales to infinity**
+🛠 **TypeScript, Tailwind, REST APIs** – Optimizing for the future**
+🐍 **Python is loading now ....
 
 ---
 
